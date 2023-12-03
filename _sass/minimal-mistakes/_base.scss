@@ -250,6 +250,7 @@ figcaption {
   font-size: $type-size-6;
 
   a {
+    text-decoration: none;
     -webkit-transition: $global-transition;
     transition: $global-transition;
 
